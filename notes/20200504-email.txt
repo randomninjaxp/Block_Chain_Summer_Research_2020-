@@ -1,0 +1,14 @@
+Hello Proffesor Xu,
+I have the overall research I would like to focus on. 
+
+The overall idea of the project is to have a better understanding of block chain and implementations. The big obvious ones are in digital currencies, like bitcoin, or e-commerce but it is not necessarily limited to those areas. My role in the project would be to construct a general analysis of block chains functionalities, as well as testing out code on how block chain is used in a P2P network. The outcome should clearly illustrate all the benefits and setbacks to block chain and different ways it could be implemented into various industries. One of the major things I would like to research is the integration of Blockchain and AI, which can be used later on different types of implementations.  
+
+Overall Pros of Block Chain:
+traceability and proof of authenticity, easily accessible records 
+
+Major implementations:
+Banks, Video Games, Food Chain Supplies, Image processing and integrity 
+
+I was thinking Python for implementing the whole project. I want to have a requirement analysis by next week so you can see it. 
+Thank you, 
+Christian Flores
