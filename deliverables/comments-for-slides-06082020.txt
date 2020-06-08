@@ -1,0 +1,11 @@
+slide 1:
+The title does not reflect the contents you want to present. To my understanding, you are trying to explore the combination of blockchain, IoT, and machine learning. So try to incorporate this idea into the title.
+
+slide 2:
+- For slide, try your best to avoid paragraph of text. The purpose of the slide is to organize your idea and work as a reminder when you present. You can summarize the key points and use bullets.
+- The motivation is not clear. For motivation, we usually explain like this: x is important -> but we have chanllenges y to solve to achieve x -> existing techniques have z limitations on solving y -> we propose a new method to solve y without the limitations of z.
+
+from slide 3 to 6:
+- Slide 3: give a high level idea of the proposed approach
+- Slide 4 - 5 or 4-6: give more details on two or three key points of the proposed approach
+- Slide 6: Summarize your approach
