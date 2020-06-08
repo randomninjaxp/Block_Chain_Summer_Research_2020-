@@ -1,0 +1,8 @@
+Raspberry Pi 4
+This device will be used as an IoT device to connect to the blockchain system.
+
+Two Coral USB Accelerators
+These two devices will be used for a simple distributed ML environment and connect to the blockchain system as clients
+
+ThingSpeak
+This is an IoT management software, which will be used to coordinate the Raspberry Pi and the two Coral USB accelerators.
