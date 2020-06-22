@@ -1,0 +1,37 @@
+Hello Dr. Xu,
+There was nothing due on this Tuesdays meeting but we did get a presentation on pursing a PhD and the available resources like fellowships. I was wondering if it's okay to ask you some questions about your education like what made you interested in pursuing a computer science PhD as well as your transition from a bachelors in applied mathematics? I think from what I've experience and researched the common conception of computer science is that you mainly need a bachelors in computer science to join the industry and pick up work experience as you go and that any higher education especially a PhD is meant more for research in theoretical work that will be valuable later in time. From my stand point I like computer science because I was born in this age of technology and it's mathematical foundation is simplistic and complex at the same time. Still I don't see myself pursing further research at least not in a concentration of computer science or mathematics although if I did I'd probably pursue data science. Instead I found myself interested in Environmental Science and the research I can do using computer science as a tool. Some how I feel more comfortable pursing a life of research in this area as it aligns more with my life goals of finding sustainable solutions for future generations as well as studying the systems of Earth. I'd like to hear your thoughts on this academic path way.
+
+The Raspberry Pi arrived in the Edinburg campus but they still have to mail it to my house in Brownsville so I'll start on that next week. As far as the progress on the paper I made some modifications to the paper outline. This is in response to research I made regarding the importance of Blockchain, IoT and AI and how it is and will affect society which I found related to previous research I did in the Spring semester for my environmental studies research on the Green New Deal and the systemic problems found in today's political and economical world and how this came to be. I find myself with mixed emotions about the topics discussed because I feel saying these things as a computer scientist is not looked upon lightly but the environmental effects and the societal disruptions this technology creates is important to look at and consider. That being said there is still a lot of potential for good that this technology has especially in understanding new ways of combating climate change and the negative impact humans are having on the world.
+
+Lastly a one minute conversation about what my research is about is due this Tuesday so I'll have it done by Monday. Would you be available to look over it and comment on it then? Please and thank you.
+
+I've attached the modified paper outline. Could you revise and tell me what you think? I greatly appreciate your feedback and mentoring in this research paper. I was thinking of having that intro and background analysis that discussed the uses of these technologies in the world which would lead into the implementation of a standard use of all three technologies to showcase the current capabilities of these technologies. 
+
+Thank you,
+Christian Flores
+===============================================================================
+
+Hi Christian,
+
+You can check my experience on my website, xuleimath.github.io.
+
+My Ph.D. work focused on elliptic curve cryptography, which is studied by both the cybersecurity and applied math communitites. So the transition is relatively smooth. My Ph.D. advisor got his Ph.D. on algebra and then switched to cryptography related research. 
+
+I do not think you need to bachelor degree in CS to pursue a Ph.D. in CS. My postdoc host has a bachelor degree and master degree on psychology, and then got his Ph.D. in CS from Georgia Tech,  on computer architecture ...  Of course he took CS courses during his master and he may get a second master degree during the same time. He then worked for nvidia, motorola, and nokia, before he came back to academia. Another example, before I joined UTRGV, my team has a software engineer whos major is music. 
+
+Personally I feel it is the case for all disciplines, e.g., a philosopy undergraduate student can switch to chemistry, and biology can switch to math. The only challenge is that you need to think carefully, and then work hard. I mean really working hard. My postdoc advisor still works maybe more than 12 hours a day now and he told me he became very lazy after graduation...
+
+Environmental science is definitely important and I believe there are many intersting problems, and you are right computer is a powerful tool in environmental science and other disciplines. Some schools have program of CS+X, which focus on the application of CS in different areas. Personally I feel it may still too early to say which area you want to work on, you can still look around, learn more about these possibilites. Probabaly you will have a clearer picture after you spend another year on investigation. 
+
+You mentioned data science, if you look at the works that data scientist are doing, most of them are just applying others' methods, doing experiments, and ajusting some parameters. Sooner or later this type of work will be done by computers themselves. Of course, a very small percentage of data scientists will study how to design new methods, which is another story.
+
+For the one minute conversation, I can provide my comments the same day unless you send me at 1130pm :)
+
+I will check the revised paper outline and let you know my comments this weekend.
+
+Best
+
+Lei
+
+
+
